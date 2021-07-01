@@ -1,0 +1,13 @@
+void main() {
+
+ var ingresso = "Ingresso do filme é 15 reais por pessoa";
+ String calculando = "Para vocês 4 fica...";
+ print(ingresso);
+ print(calculando);
+  
+  double a = 15;
+  double b = 4;
+  double resultado = a * b;
+  print(resultado);
+  
+}  
